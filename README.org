@@ -1,0 +1,7 @@
+* Run-Emacs-With-Debugger
+
+  An runner to call Emacs.app for OS X
+
+* Usage
+
+  Just Run it.
