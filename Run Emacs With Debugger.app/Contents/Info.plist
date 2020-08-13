@@ -18,8 +18,12 @@
 	<string>Run Emacs With Debugger</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
+	<key>CFBundleVersion</key>
+	<string>2</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -32,7 +36,7 @@
 		<key>bundleDividerCollapsed</key>
 		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>303</real>
+		<real>854</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -40,9 +44,9 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>333</real>
+		<real>715</real>
 		<key>savedFrame</key>
-		<string>1166 645 602 597 0 0 2560 1417 </string>
+		<string>1166 263 1153 979 0 0 2560 1417 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
